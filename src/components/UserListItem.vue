@@ -1,5 +1,5 @@
 <template lang="">
-    <Card padding-class="px-2 md:px-8 pt-5 md:pt-8 pb-8 md:pb-14">
+    <Card padding-class="px-4 md:px-8 pt-5 md:pt-8 pb-8 md:pb-14">
         <div class="relative mb-4">
             <h3 class="text-center font-normal text-2xl text-gray-800">User #{{ user?.id }}</h3>
             <div class="delete-icon inline-block absolute right-0 top-1 cursor-pointer text-black hover:text-red-600 transition-colors overflow-hidden">
